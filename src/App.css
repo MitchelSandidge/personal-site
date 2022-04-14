@@ -35,10 +35,11 @@
 }
 
 .sign-up {
-  background-image: url("../public/images/wut.jpg");
+  /* background-image: url("../public/images/wut.jpg"); */
+  background-color: #f9f9f9;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  color: #fff;
+  color: #363636;
   font-size: 100px;
 }
